@@ -1,4 +1,4 @@
-# Mem=cache client
+# Mem-cache client
 
 commands:
 
