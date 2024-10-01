@@ -1,4 +1,4 @@
-# UDP_DATA_SERVER
+# Mem=cache client
 
 commands:
 
